@@ -2,3 +2,4 @@ file.json
 __pycache__
 models/__pycache__
 models/engine/__pycache__
+.idea
